@@ -1,0 +1,7 @@
+<html>
+<head>
+<title>Vase</title>
+</head>
+<body>
+<img src="vase.png"/>
+</html>
